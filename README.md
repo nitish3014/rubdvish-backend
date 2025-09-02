@@ -1,6 +1,6 @@
 # Rudvish International Backend API
 
-This is the backend API for the Rudvish International website, handling contact forms, bulk inquiries, and email notifications.
+This is the backend API for the Rudvish International FE website, handling contact forms, bulk inquiries, and email notifications.
 
 ## Features
 
