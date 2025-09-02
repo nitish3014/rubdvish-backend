@@ -51,7 +51,7 @@ npm start
 
 ### Health Check
 - **GET** `/api/health`
-- Returns server status and uptime
+- Returns server status and uptime 
 
 ## Deployment
 
